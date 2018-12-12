@@ -11,3 +11,4 @@ This project turns an arduino with Motorshield into a USB controlled Selectrix C
 - https://www.mec-arnsdorf.de/index.php/selectrix/selectrix-protokoll/
 - http://www.frank-keil.de/Selectrix/selectrix.html
 - https://opensx.net/selectrix/sx-bus-signale/
+- https://doehler-haass.de/cms/media/pdf/FCC_Interface_Doku.pdf
